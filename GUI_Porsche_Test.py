@@ -209,8 +209,9 @@ def packing_all():
     submit_all_button.grid(row=10, column=2)
     # date.pack(side=RIGHT, anchor=NE, pady=20)
 
+def main():
+    packing_all()
+    window.mainloop()
 
-packing_all()
-
-
-window.mainloop()
+if __name__ == "__main__":
+    main()
