@@ -1,0 +1,615 @@
+----------
+
+TM – Weitere_Informationen
+
+
+Sehr geehrte{name},
+
+
+vielen Dank für Ihre E-mail vom {date}.
+Um Ihr Anliegen bearbeiten zu können, benötigen wir noch weiterführende Informationen zu [Ihrer Person; zu Ihrem Fahrzeug; zum Sachverhalt].
+Würden Sie uns bitte noch folgende Informationen zur Verfügung stellen:
+
+
+[ ] Ihre Anschrift
+[ ] Ihre Telefonnummer
+[ ] Ihre E-Mailadresse
+[ ] die Fahrgestellnummer des betreffenden Fahrzeuges
+[ ] die Kommissionsnummer zu Ihrer Neufahrzeugbestellung
+[ ] Ihr betreuendes Porsche Zentrum
+
+
+Sobald wir die Informationen erhalten haben, wird die Bearbeitung Ihres Anliegens umgehend fortgesetzt.
+
+
+Mit freundlichen Grüßen
+
+
+Dyogo Lorenz
+----------
+TM - Rechnung
+
+
+Sehr geehrte{name},
+
+
+vielen Dank für Ihre E-Mail vom {date}.
+Ihre Anfrage kann an dieser Stelle leider nicht beantwortet oder weitergeleitet werden.
+Bitte wenden Sie sich daher direkt an den für Sie zuständigen Ansprechpartner bei der Porsche AG, der in Ihrem Unternehmen bekannt sein müsste.
+Vielen Dank für Ihr Verständnis.
+
+
+Mit freundlichen Grüßen
+
+
+Dyogo Lorenz
+----------
+TM - Bills
+
+
+Dear Mr{name},
+
+
+thank you for your e-mail dated {date}.
+Unfortunately, your request can not be answered or forwarded at this point.
+Please, turn therefore to your responsible contact person at the Porsche AG, 
+who should be known to your establishment.
+Thank you for your understanding.
+
+
+Kind regards,
+
+
+Dyogo Lorenz
+
+
+----------
+TM - Bewerbung
+
+
+Sehr geehrte{name},
+
+
+vielen Dank für Ihre E-Mail vom {date} und Ihr Interesse an unserem Unternehmen .
+Bitte nutzen Sie für einen Einblick in Ihre Karrieremöglichkeiten unser Karriere Portal auf unserer Porsche Webseite. Sie finden mehr Informationen unter
+https://www.porsche.com/germany/aboutporsche/jobs/.
+Für den Bewerbungsprozess ist es notwendig, dass Sie sich über das Online-Bewerberportal anmelden und Ihre persönlichen Unterlagen dort einreichen.
+Wir wünschen Ihnen viel Erfolg und danken Ihnen, dass Sie Ihre berufliche Laufbahn mit uns gestalten möchten.
+
+
+Mit freundlichen Grüßen
+
+
+Dyogo Lorenz
+
+
+----------
+TM - Job_Application
+
+
+Dear Mr{name},
+
+
+Thank you for your e-mail dated {date} and your Interest in our Company.
+To find all our Career opportunities, please use our Career Portal on our Website. 
+You can find more information at https://www.porsche.com/germany/aboutporsche/jobs/.
+It's imperative for your application, to register and upload your information to our career portal online.
+We wish you lots of success and want to thank you again that you decided to join a future with Porsche.
+
+
+Kind regards,
+
+
+Dyogo Lorenz
+
+
+----------
+TM - Adressänderung
+
+
+
+
+Sehr geehrte{name},
+
+
+Vielen Dank für Ihre E-mail vom {date} und Ihre darin beschriebene Bitte zur Adressänderung in unserem System.
+Wir möchten Ihnen hierbei freundlicherweise mitteilen, dass wir Sie erfolgreich verifiziert haben und die von Ihnen übersandten Daten aufgenommen haben.
+Mit freundlichen Grüßen,
+
+Dyogo Lorenz
+
+----------
+
+
+TM - Auslieferungsinformationen
+
+
+Sehr geehrte{name},
+
+vielen Dank für Ihre E-Mail vom {date}.
+Wir möchten Sie informieren, dass wir keine Auslieferungsbescheinigung und auch keine Auslieferungsinformation mehr ausstellen. Aus diesem Grund können wir Ihre Anfrage bedauerlicherweise an dieser Stelle nicht mehr bearbeiten. Gern informieren wir Sie über die Möglichkeiten, wie Sie Ihr Anliegen dennoch bei uns platzieren können.
+Faszination und Begeisterung für Porsche Fahrzeuge sind von jeher eng mit der Geschichte von Porsche verbunden. Erst recht gilt das natürlich für Porsche Klassiker, um deren Betreuung, Ersatzteilversorgung und damit Erhalt sich Porsche Classic leidenschaftlich kümmert.
+
+Mit dem Porsche Classic Technischen Zertifikat bieten die Porsche Classic Partner Ihnen die Möglichkeit, Porsche Classic Fahrzeuge technisch ausführlich prüfen zu lassen und historische Informationen zum Fahrzeug bereitzustellen.
+
+Dieses umfangreiche Zertifikat dokumentiert wichtige Produktionsinformationen und die technischen Daten Ihres Porsche
+Klassikers. Das Porsche Classic Technische Zertifikat enthält Original-Fahrzeugdaten zum Zeitpunkt der Auslieferung, wie z.B. Produktionsdatum, Außen- und Innenfarbe und -material sowie optionale Ausstattungen. Außerdem werden die tatsächlichen Motor- und Getriebenummern und –typen dokumentiert, die sich derzeit im Fahrzeug befinden und mit den Originalaufzeichnungen abgeglichen. Es wird zudem der technische Zustand Ihres Klassikers mit einem umfangreichen Check bewertet, der bei einem zertifizierten Porsche Classic Partner durchgeführt wird. Zusätzlich zur technischen
+Überprüfung enthält das Zertifikat eine Fotodokumentation der Außen- und Innenansicht Ihres Klassikers sowie der
+Antriebsseriennummern.
+
+Bitte beachten Sie, dass ein Porsche Classic Technisches Zertifikat nur bei einem Porsche Classic Partner in Auftrag gegeben werden kann. Ein Porsche Classic Partner ist ein zertifiziertes Porsche Zentrum, das über eine hohe Classic-Kompetenz verfügt. Ein zertifizierter Porsche Classic-Techniker und ein zertifizierter Porsche Classic-Serviceberater werden mit der Erstellung Ihres Dokuments betraut. Eine Übersicht der Porsche Classic Partner finden Sie hier.
+
+Die Kontaktdaten Ihres nächstgelegenen Porsche Classic Partners sind wie folgt:
+
+{PZ_info}
+
+Die Kosten für das Dokument belaufen sich auf 499 EUR (inkl. MwSt.).
+
+Neben dem Technischen Zertifikat haben Sie alternativ die Möglichkeit eine sogenannte Auslieferungsinformation Light über einen Porsche Partner Ihrer Wahl zu beziehen. Für die Erstellung des besagten Dokumentes wird eine Aufwandspauschale in Höhe von 166,60 EUR (inkl. MwSt.) erhoben. Nähere Informationen erhalten Sie bei Ihrem Porsche Partner.
+
+Sehr geehrte{name}, wir hoffen Ihnen weitergeholfen zu haben und stehen für Rückfragen gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen
+
+
+Dyogo Lorenz
+----------
+TM - Tragfähigkeit
+
+Sehr geehrte{name},
+
+vielen Dank für Ihre E-Mail vom {date}.
+Wir müssen Ihnen bedauerlicherweise mitteilen, dass wir ab sofort keine „Felgen- und Tragfähigkeitsgutachten“ mehr ausstellen und die von Ihnen eingereichte Anfrage somit nicht bearbeiten können.
+Bitte wenden Sie sich alternativ an Ihren Porsche Partner oder beauftragen Sie einen Sachverständigen mit der Durchführung einer Einzelabnahme.
+
+Vielen Dank für Ihr Verständnis.
+Für weitere Fragen stehen wir Ihnen selbstverständlich gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen
+
+Dyogo Lorenz
+----------
+
+TM - Fahrzeughistorie
+
+
+
+
+Sehr geehrte{name},
+
+
+vielen Dank für Ihre Nachricht vom {date}.
+Wir bitten um Ihr Verständnis, dass wir aus Datenschutzgründen grundsätzlich keine Informationen zur individuellen Fahrzeughistorie mitteilen können. Die fahrzeugbezogenen Daten sind mit dem jeweiligen Eigentümer im Besitz Zeitraum verknüpft.
+Darüber hinaus liegen die Daten im Zweifel nur den rechtlich wie wirtschaftlich eigenständigen Porsche Zentren vor, welche die individuelle Vertragsbeziehung mit den Vorbesitzern unterhielten. Beispielsweise im Rahmen von Kaufverträgen oder Serviceaufträgen. Eine Weitergabe dieser Daten ist uns deshalb unter Umständen weder möglich noch gestattet.
+Wir empfehlen Ihnen deshalb, sich unmittelbar mit den Vorbesitzern in Verbindung zu setzen.
+Sehr geehrte{name}, wir bedauern, keine anderslautende Mitteilung machen zu können und verbleiben
+
+
+Mit freundlichen Grüßen
+
+
+Dyogo Lorenz
+
+
+----------
+TM - Vehicle_Data_History
+
+
+Dear Mr{name},
+
+
+Thank you very much for your e-mail dated {date}.
+After some internal discussion, we regret to inform you that due to Data protection reasons, we generally are unable to share any information regarding individual historic vehicle data. 
+The vehicle related data is linked to the previous owner of the Porsche.
+Furthermore, only our legally and economically independent Porsche Centers actually have access to information as such, which are contractually bound to the predecessors. 
+These for example include, purchase agreements and service related work history.
+Therefore we are unable nor are we legally permitted to share the requested data about both your vehicles.
+Thus we advise you to get in touch directly with the previous owner of your vehicles.
+Dear Mr{name}, we truly apologize that we can not respond in a more satisfying way.
+
+
+Kind regards,
+
+
+Dyogo Lorenz
+----------
+TM - Produktionszahlen
+
+
+Sehr geehrte{name},
+
+
+vielen Dank für Ihre E-Mail vom {date} und Ihr damit verbundenes Interesse an dem Hause Porsche.
+Bitte entschuldigen Sie unsere verspätete Antwort. Wir bedanken uns für Ihre Geduld und bitten um Ihr Verständnis für die entstandenen Unannehmlichkeiten.
+Um Ihnen eine möglichst akkurate Antwort erteilen zu können, benötigen wir noch Ihre Fahrzeugidentifikationsnummer (FIN). Sobald Sie uns diese freundlicherweise mitteilen, können wir Ihnen die Produktionszahlen des Geschäftsjahres des Porsche 911ers übersenden.
+Wir weisen Sie jedoch darauf hin, dass unserer Geschäftspolitik entsprechend kommunizieren wir nur die in den jeweiligen Geschäftsberichten veröffentlichten Produktionszahlen, welche keine genauen Zahlen spezifischer Varianten wie, 991.2 Cabrio 4S enthalten.
+
+
+Mit freundlichen Grüßen
+
+
+Dyogo Lorenz
+
+----------
+TM - Verweis_PZ
+
+
+Sehr geehrte{name},
+
+vielen Dank für Ihre E-Mail vom {date}.
+Bitte wenden Sie sich zu Ihrer Anfrage {subject_topic} direkt an Ihr Porsche Zentrum {PZ_stadt} oder an ein Porsche Zentrum Ihrer Wahl.
+Die Kontaktdaten Ihres nächstgelegenen Porsche Zentrums sind wie folgt:
+
+{PZ_info}
+
+Des Weiteren finden Sie die Kontaktadressen unserer Porsche Zentren weltweit auf unserer offiziellen Porsche Website www.porsche.com./
+Unsere Kollegen vor Ort helfen Ihnen bei Fragen gerne weiter.
+
+
+Mit freundlichen Grüßen
+
+Dyogo Lorenz
+----------
+TM - an_generelles_PZ
+
+
+Sehr geehrte{name},
+
+vielen Dank für Ihre E-Mail vom {date}.
+Bezüglich Ihrer Anfrage {subject_topic} bitten wir Sie, sich direkt an Ihr [Porsche Zentrum Aachen]/[nächstgelegenes Porsche Zentrum oder an ein Porsche Zentrum Ihrer Wahl] zu wenden.
+[Die Kontaktdaten Ihres nächstgelegenen Porsche Zentrums sind wie folgt:
+
+Porsche Zentrum 
+
+Straße
+
+Ort
+
+Telefonnummer]
+
+[Des Weiteren finden Sie die Kontaktadressen unserer Porsche Zentren weltweit auf unserer offiziellen Porsche Website www.porsche.com./
+Die Kontaktadressen unserer Porsche Zentren weltweit finden Sie auf unserer offiziellen Porsche Website www.porsche.com.
+Unsere Kollegen vor Ort helfen Ihnen bei Fragen gerne weiter.
+Bei Rückfragen stehen wir Ihnen gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+Dyogo Lorenz
+
+----------
+
+
+TM - Referral_Porsche_Centre
+
+Dear Mr{name},
+
+Thank you for your e-mail from {date}. Concerning your request {subject_topic} we kindly ask you to contact your Porsche Centre {PZ_stadt} or a Porsche Centre of your choice. 
+The contact information of the Porsche Centre {PZ_stadt} are as follows:
+
+{PZ_info}
+
+Additionally you have the chance to search for a suitable Porsche Centre on our official website www.porsche.com. 
+Our colleagues will be pleased to handle your case. We are convinced that all your issues will be clarified.
+
+
+Yours sincerely,
+
+
+Dyogo Lorenz
+----------
+
+TM - Verweis_PorscheDrive
+
+
+Sehr geehrte{name},
+
+
+vielen Dank für Ihre E-Mail vom {date}.
+Bezüglich Ihrer Anfrage {subject_topic} bitten wir Sie, sich direkt an die Porsche Drive Organisation zu wenden.
+Da es sich hierbei um ein rechtlich und wirtschaftlich eigenständiges Unternehmen handelt.
+Die Kontaktdaten des Porsche Zentrums {PZ_stadt} sind wie folgt:
+
+
+{PZ_info}
+
+
+Unsere Kollegen vor Ort helfen Ihnen bei Fragen gerne weiter.
+Bei Rückfragen stehen wir Ihnen gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen
+
+
+Dyogo Lorenz
+
+----------
+
+
+TM - Referral_Porsche_Drive
+
+Dear Mr{name},
+
+
+Thank you for your e-mail from {date}. Concerning your request regarding {subject_topic}, we kindly ask you to contact your Porsche Drive {PZ_stadt} directly. 
+The contact information of the Porsche Drive location are:
+
+
+{PZ_info}
+
+
+Please allow us hereby to clarify that all Porsche Centres and Porsche Drive organisations are legally and economically independent.
+Our colleagues will be pleased to handle your case. We are convinced that all your issues will be clarified.
+
+
+Yours sincerely,
+
+
+Dyogo Lorenz
+
+----------
+TM - PZ_Kulanz
+
+Sehr geehrte{name},
+
+
+
+vielen Dank für Ihre E-Mail vom {date}, in der Sie die Erfahrungen mit Ihrem Porsche (Modell) sowie die aktuell erforderlichen Arbeiten schildern.
+
+
+Dass an Ihrem Porsche eine Reparatur erforderlich ist, bedauern wir sehr. Es ist unser Anspruch, ein technisch und qualitativ herausragendes Fahrzeug anzubieten.
+
+Dass dies gelingt, wird oft genug bestätigt und macht es umso ärgerlicher und bedauerlicher, wenn es, wie in Ihrem Fall, zu unerwarteten Werkstattaufenthalten kommt.
+
+
+Eine Kulanzprüfung erfolgt immer über einen autorisierten Porsche Vertragspartner, da eine Bewertung „aus der Ferne“ nicht
+
+möglich ist. Insofern bitten wir Sie, sich zur Prüfung an Ihr Porsche Zentrum zu wenden, wo man sich unmittelbar um den Sachverhalt kümmern kann.
+
+
+Auch wenn wir keine Zusage geben konnten, hoffen wir doch, zu mehr Transparenz beigetragen zu haben und wünschen Ihnen allzeit gute Fahrt.
+
+
+
+Mit freundlichen Grüßen
+
+
+Dyogo Lorenz
+
+
+----------
+TM - Abschlussschreiben
+
+
+Sehr geehrte{name},
+
+
+
+vielen Dank für Ihre E-mail vom {date}.
+Wie wir zwischenzeitlich informiert wurden, stand das Porsche Zentrum {PZ_stadt} mit Ihnen in Kontakt und hat sich Ihres Anliegens angenommen.
+Gerne stehen Ihnen die Kollegen bei Rückfragen weiterhin zur Verfügung und unterstützen Sie.
+
+
+
+Mit freundlichen Grüßen
+
+Dyogo Lorenz
+----------
+
+
+TM - AXA
+
+
+Sehr geehrte Kollegen und Kolleginnen,
+
+
+anbei eine Schadensmeldung der AXA zu Ihrer Kenntnisnahme. 
+Alle Informationen finden Sie im angehängten Dokument.
+
+
+Mit freundlichen Grüßen
+
+Dyogo Lorenz
+
+
+----------
+TM - Kooperation
+
+
+Sehr geehrte{name},
+
+
+vielen Dank für Ihre E-Mail vom {date} und für Ihr Interesse an einer Zusammenarbeit mit Porsche. Leider müssen wir Ihnen mitteilen, dass bei der Porsche AG derzeit kein Bedarf an Ihren Dienstleistungen besteht. Wir arbeiten schon seit vielen Jahren erfolgreich mit unseren Partnern zusammen. Wir danken Ihnen, dass Sie sich direkt an uns gewendet haben.
+
+
+Mit freundlichen Grüßen
+
+
+Dyogo Lorenz
+
+
+----------
+
+
+TM - Cooperation
+
+
+Dear Mr{name},
+
+
+Thank you for your e-mail dated {date}. We are glad to note your interest in a cooperation with Porsche. However, we kindly ask for your understanding that we have presently no need for your services, as we are working successfully with our partners for many years. Thank you very much for taking the time to contact us directly.
+
+
+Yours sincerely
+
+
+Dyogo Lorenz
+
+----------
+TM - Sachspenden
+
+
+Sehr geehrte{name},
+
+
+vielen Dank für Ihre E-Mail vom {date} und das unserem Unternehmen entgegengebrachte Interesse.
+
+Jeden Tag erreicht uns eine Vielzahl von Anfragen der unterschiedlichsten Art. Dabei handelt es sich ganz überwiegend um Anliegen, die es in der Tat verdienen, positiv beantwortet zu werden. Doch in Anbetracht der enorm großen Zahl dieser Fälle ist es uns nicht möglich, allen diesen Wünschen gerecht zu werden. Daher konzentrieren wir uns inzwischen fast ausschließlich auf die Standorte unseres Unternehmens Stuttgart, Leipzig und deren Regionen, was die Bereitstellung von Werbematerial angeht. Und selbst hier können wir in vielen Fällen nicht aktiv werden.
+
+Wir hoffen auf Ihr Verständnis und wünschen Ihnen für Ihre weitere Arbeit alles Gute und den besten Erfolg.
+
+Mit freundlichen Grüßen,
+
+
+Dyogo Lorenz
+----------
+
+TM - Zwischenbescheid
+
+Sehr geehrte{name},
+
+
+vielen Dank für Ihre E-Mail vom {date}.
+Bitte haben Sie Verständnis, dass die individuelle Bearbeitung Ihrer Anfrage einige Zeit in Anspruch nehmen kann.
+Ihr Anliegen {subject_topic} ist derzeit noch in Prüfung und wird an die Zuständige Abteilung weitergeleitet.
+Sobald wir Ihr Anliegen geprüft haben, erhalten Sie umgehend eine Antwort.
+Wir bedanken uns für Ihre Geduld und stehen Ihnen jederzeit für weitere Fragen zur Verfügung.
+
+
+Mit freundlichen Grüßen
+
+
+Dyogo Lorenz 
+
+----------
+
+TM - PZ rechtlich_wirtschaftlich
+
+
+Sehr geehrte{name},
+
+
+vielen Dank für Ihre E-Mail vom {date}.
+Wir haben Ihre Anregung an die zuständige Fachabteilung zur Kenntnis weitergeleitet.
+Bitte erlauben Sie uns den Hinweis, dass es sich bei dem Porsche Zentrum in {PZ_stadt} um ein rechtlich und wirtschaftlich eigenständiges Unternehmen handelt. Eine Einflussnahme seitens Porsche in den Geschäftsbetrieb ist nur in vermittelndem Maße möglich.
+Es hat uns gefreut, dass Sie mit uns in direkten Kontakt getreten sind.
+
+
+Mit freundlichen Grüßen
+
+
+Dyogo Lorenz
+----------
+
+TM - legally_financial
+
+
+
+Dear Mr{name},
+
+
+Thank you very much for your e-mail from {date}.
+To best assist you with your request, please contact your local Porsche Dealer regarding {subject_topic}.
+We hereby want to clarify that all Porsche Centres are legally and economically independent.
+Our colleagues will be pleased to handle your case. We are convinced that all your questions will be answered.
+
+
+Yours sincerely,
+
+
+Dyogo Lorenz
+
+----------
+TM - 1. Folgekontakt
+
+Erster Folgekontakt zum Ticket {case} im Rahmen des Margenkriteriums
+
+
+Sehr geehrte{name},
+
+
+Bitte beachten Sie das Ticket {case}. Würden Sie uns bitte mitteilen, ob bereits Kontakt zum Kunden aufgenommen wurde und was mit dem Kunden besprochen wurde?
+
+Vielen Dank
+
+Dyogo Lorenz
+
+Team CIC PDAC
+Info@Porsche.de
+
+====================
+Sehr geehrte{name},
+
+1. Folgekontakt Erinnerung per E-mail an Sie versandt.
+bitte geben Sie uns kurz bescheid ob Sie bereits in der Lage waren mit dem KD kontakt aufzunehmen.
+
+Besten Gruß
+
+Dyogo Lorenz
+
+----------
+TM - Autogrammkarten
+
+
+Sehr geehrte{name},
+
+
+vielen Dank für Ihre E-mail vom {date} mit der Anfrage nach Autogrammkarten aus dem Hause Porsche.
+
+Täglich erhalten wir eine Vielzahl von Anfragen der unterschiedlichsten Art. Dabei handelt es sich ganz überwiegend um Anliegen, die es in der Tat verdienen, positiv beantwortet zu werden. In Anbetracht der enorm großen Zahl dieser Fälle ist es uns jedoch leider nicht möglich, all diesen Wünschen gerecht zu werden.
+
+Nach Prüfung Ihrer Anfrage müssen wir Ihnen leider mitteilen, dass wir Ihren Wunsch nicht erfüllen können, da uns keine Autogrammkarten zum Versand vorliegen.
+
+Wir bitten um Ihr Verständnis und verbleiben
+
+
+mit freundlichen Grüßen
+
+
+Dyogo Lorenz
+
+----------
+
+TM - Autograph
+
+
+
+Dear Mr{name},
+
+
+Thank you for your e-mail dated {date} with the request for autographs from Porsche.
+
+Every day we receive a large number of different kinds of inquiries. All of which deserve to be answered positively. 
+In view of the enormous number of these cases, however, it is unfortunately not possible for us to meet all of these wishes.
+After examining your request, we regret to inform you that we cannot fulfill your wishes as we do not possess any autograph cards to send.
+
+We ask for your understanding and highly appreciate your fandom.
+
+
+Kind regards,
+
+
+Dyogo Lorenz
+----------
+TM - Studenten
+
+
+
+Sehr geehrte{name},
+
+
+vielen Dank für Ihre E-Mail vom {date}.
+
+Wir bitten um Verständnis, dass wir grundsätzlich keine weiteren Informationen zur Verfügung stellen, als auf unserer offiziellen Website - www.porsche.de - veröffentlicht.
+
+Zugleich möchten wir Ihnen unsere “Porsche - Gut zu wissen” App empfehlen. Hier stehen Ihnen eine Vielzahl von Fahrzeuginformationen zu den einzelnen Modellen zur Verfügung. Die App erhalten Sie kostenfrei im Google Play Store oder Apple App Store. Des Weiteren stehen Ihnen alle Materialien zu unseren aktuellen Modellen, auf den Modellseiten unter porsche.de zum Download zur Verfügung.
+
+Wir wünschen Ihnen viel Erfolg bei [Ihrer Forschungsarbeit/Ihrem Projekt] und bedanken uns für Ihr Verständnis.
+
+
+
+Mit freundlichen Grüßen
+
+
+Dyogo Lorenz
